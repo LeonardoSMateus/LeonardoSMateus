@@ -1,14 +1,14 @@
-## Olá ! Eu sou a Leonardo Mateus, profissional em Ciência de Dados e Inteligência Artificial!
+## Hi! I'm Leonardo Mateus, professional in Data Science and Artificial Intelligence!
 <div>
-  💼 Business Intelligence     - Boa Vista Serviços 
+  💼 Business Intelligence     - Boa Vista Serviços (BVS)
   
-  🎓 Bacharelado em Engenheiro da Computação - Universidade Tecnológica Federal do Paraná 
+  🎓 Bachelor's Degree in Computer Engineer - Universidade Tecnológica Federal do Paraná (UTFPR)
 </div>
 
   ##
 
 <div align="center">
-  <h3> Tecnologias Trabalhadas </h3>
+  <h3> Technologies Worked </h3>
   <a href="https://github.com/LeonardoSMateus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSMateus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSMateus&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -26,12 +26,10 @@
       
 </div>
 
-
   ##
   
-  
 <div align="center"> 
-<h3> Contato </h3>
+<h3> Contact </h3>
   <a href = "mailto:leonardodesouzamateus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-de-souza-mateus-76387418b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
