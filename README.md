@@ -1,6 +1,6 @@
 ## Hi! I'm Leonardo Mateus, professional in Data Science and Artificial Intelligence!
 <div>
-  💼 Business Intelligence     - Boa Vista Serviços (BVS)
+  💼 Product Analyst    - Boa Vista Serviços (BVS)
   
   🎓 Bachelor's Degree in Computer Engineer - Universidade Tecnológica Federal do Paraná (UTFPR)
 </div>
